@@ -1,3 +1,5 @@
+# Author: Arjun Goel
+
 LINK:- bit.ly/2V819eq
 
 Indexing during Iteration - use enumerate(). It will return the result in a form of tuple. If you don't specify an index then default it starts from zero.
